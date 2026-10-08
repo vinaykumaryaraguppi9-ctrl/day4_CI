@@ -20,7 +20,7 @@ function App() {
           <h1>
             React App
             <br />
-            <span>Deployed with DevOps</span>
+            <span>Deployed with DevOps with CI and CD</span>
           </h1>
 
           <p>
